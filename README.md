@@ -17,7 +17,7 @@ API RESTful desenvolvida como Produto Mínimo Viável (MVP) para uma startup de 
 
 1. **Clonar o repositório:**
    ```bash
-   git clone <LINK-DO-SEU-REPOSITORIO>
+   git clone https://github.com/guirdgrs/api-connect-guilherme-rodrigues.git
    cd api-connect-nome-sobrenome
    ```
 
